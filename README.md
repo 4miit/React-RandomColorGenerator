@@ -1,5 +1,11 @@
 # React + TypeScript + Vite
 
+## `project live link :-` https://react-random-color-generator-9q15vy9c1.vercel.app/
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
