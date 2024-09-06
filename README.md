@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-## `project live link :-` https://react-random-color-generator-9q15vy9c1.vercel.app/
+## `project live link :-` https://react-random-color-generator-sepia.vercel.app/
 
 
 
